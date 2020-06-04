@@ -1,3 +1,4 @@
+Modificado arquivo 
 teste a
 outra alteração
 foi realizada alteração no ramo master
